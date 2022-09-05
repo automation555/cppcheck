@@ -43,7 +43,9 @@ modules:
 #        ruleName: "unconditional pointer return deref"
        - key: "EMB-CPP-578"
          enabled: false
-
+#        ruleName: "cppcoreguidelines-avoid-magic-numbers"
+       - key: "EMB-CPP-264"
+         enabled: true
 
 
 
