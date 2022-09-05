@@ -43,9 +43,6 @@ modules:
 #        ruleName: "unconditional pointer return deref"
        - key: "EMB-CPP-578"
          enabled: false
-#        ruleName: "readability-isolate-declaration"
-       - key: "EMB-CPP-328"
-         enabled: false
 
 
 
