@@ -27,7 +27,7 @@
                 }
             },
             "settings": {
-                "additionalOptions": [],
+                "additionalOptions": [--cdb="$strictmode_home/cppcheck/build/compile_commands.json"],
                 "includePaths": []
             },
             "modules": {
