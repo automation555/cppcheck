@@ -69,7 +69,7 @@
                     },
                     {
                         "name": "gamma_generic",
-                        "enabled": true,
+                        "enabled": false,
                         "config": {
                             "rules": [],
                             "options": [
@@ -84,7 +84,7 @@
                     },
                     {
                         "name": "cppcheck",
-                        "enabled": false,
+                        "enabled": true,
                         "config": {
                             "rules": [],
                             "options": [
